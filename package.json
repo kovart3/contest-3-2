@@ -1,7 +1,7 @@
 {
   "name": "forta-openzeppelin-uups-upgreadable-agent",
   "version": "0.0.1",
-  "description": "This agent detects Self-Destruct exploits of the OpenZeppelin UUPSUpgradeable contract",
+  "description": "This agent detects SELFDESTRUCT exploits of the OpenZeppelin UUPSUpgradeable contract",
   "repository": "https://github.com/kovart/forta-agents/tree/main/openzeppelin/uups-upgradeable/",
   "scripts": {
     "build": "tsc",
